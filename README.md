@@ -17,10 +17,6 @@ A single-page study tracker built for one purpose: preparing for the CompTIA A+ 
 
 Other: dark mode toggle, all progress/questions/schedule saved to your browser's local storage (no account, no server).
 
-## Content note
-
-All questions, explanations, and flashcards in the built-in banks were written from scratch for this project. No copyrighted third-party exam content (e.g. commercial practice-exam books) is included.
-
 ## Running it
 
 Open `index.html` directly in a browser, or host it as a static site (e.g. GitHub Pages) for access from any device — your saved progress is per-browser either way.
